@@ -1,0 +1,82 @@
+# MinecraftStrongholdLevel
+Bread=麵包
+Apple=蘋果
+Golden Apple=金蘋果
+Cooked Beef=烤牛排
+Iron Sword=鐵劍
+Iron Pickaxe=鐵鎬
+
+STRONGHOLD=MC要塞
+Stronghold=MC要塞
+
+
+# Minecraft Village
+MINECRAFT VILLAGE=MC村莊
+Minecraft Village=MC村莊
+
+
+# MinecraftAdditions
+Minecraft Enderman=終界使者
+
+
+# MCZombieMod
+Zombie=殭屍
+
+
+# PLUS
+Rifle=AK47
+
+
+# Wesleys
+REDFIELD BUNKER=雷德菲爾德地堡
+Redfield Bunker=雷德菲爾德地堡
+
+Soldier=士兵
+Soldier Ghost=幽靈士兵
+Lost Droid=廢棄機器人
+Lost Destroyer=毀滅者
+Gusher=噴酸蟲
+Roaster=噴焰蟲
+Voodoo=巫毒娃娃
+
+
+# Tolian Levels
+MIREFORT=沼澤要塞
+Mirefort=沼澤要塞
+VAULTLINE: SECTOR=地下工廠
+Vaultline: Sector=地下工廠
+
+
+# FNAFLevel
+FAZBEAR PIZZA=佛萊迪的披薩屋
+Fazbear Pizza=佛萊迪的披薩屋
+
+
+# FreddyEnemy
+Freddy Fazbear=佛萊迪
+
+
+# Hospital Level
+HOPING HOSPITAL=希望醫院
+Hoping Hospital=希望醫院
+
+
+# Deeproot Garden
+DEEPROOT GARDEN=根源庭園
+Deeproot Garden=根源庭園
+
+
+# NikkisUpgrades
+STAMINA REGEN\n=體力恢復\n
+INVESTOR\n=複利\n
+UNSTABLE CORE\n=核平\n
+
+Stamina Regen Upgrade=體力恢復升級
+Investor Upgrade=複利升級
+Unstable Core Upgrade=核平升級
+
+
+# OverchargeUpgrade
+OVERCHARGE UPGRADE\n=過載緩衝
+
+Overcharge Upgrade=過載緩衝升級
