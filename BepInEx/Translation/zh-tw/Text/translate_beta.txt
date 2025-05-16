@@ -1,0 +1,53 @@
+Private Game=私人遊戲
+Public Game=公開遊戲
+join friend=加入好友
+
+REGIONS=地區
+PASSWORD=密碼
+WARNING=警告
+CREATE NEW SERVER=新建伺服器
+Player Expressions=玩家表情
+
+It's over for me=是
+Haha yes!  :)=是
+Yes!=是
+Yes=是
+Not me...  :'(=否
+No wait!=否
+No=否
+Japan=日本
+Asia=亞洲
+USA West=美西
+USA East=美東
+Australia=澳洲
+South America=南美洲
+Europe=歐洲
+South Africa=南非
+Pick Best Region=自動選擇最佳地區
+SKIP=跳過
+Confirm=確認
+I understand=我明白
+No thanks :(=算了
+RANDOM MATCHMAKING=隨機匹配
+SERVER LIST=伺服器列表
+SEARCH=搜尋
+CREATE NEW=新建
+
+The friend with the best computer\nshould host.\n\nAre you this friend?=應該由擁有最佳電腦設備的人主辦。\n\n你是這名朋友嗎？
+While playing with random players\nyou may come across hackers or really mean people...=在公開遊戲中，你可能會遇到孤兒...
+
+Expression - Angry=生氣
+Expression - Sad=傷心
+Expression - Suspicious=懷疑
+Expression - Eyes Closed=閉眼
+Expression - Crazy=瞳孔縮小
+Expression - Happy=開心
+
+THE AVANT-GARDE=博物館
+The Avant-Garde=博物館
+
+Duck Bucket=鴨子桶
+Boltzap=電擊弩
+Pulse Pistol=衝擊手槍
+Prodzap=電擊棒
+Trapzap=捕獸夾
