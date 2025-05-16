@@ -120,6 +120,8 @@ Good job! <sprite name\=creepycrying>=做得好！<sprite name\=creepycrying>
 <b>FOCUS > </b>Find the next extraction point=<b>重點 ></b> 尋找下一個提取點
 <b>FOCUS > </b>Fill the extraction point with valuables=<b>重點 ></b> 用物品塞滿提取點
 <b>FOCUS > </b>Get back to the truck!=<b>重點 ></b> 回到車上！
+<b>FOCUS > </b>Buy stuff in the shop=<b>重點 ></b> 在商店中購買道具
+<b>FOCUS > </b>Enjoy the ride, recharge stuff and GEAR UP!=<b>重點 ></b> 享受這趟旅程。給你的道具充電並使用升級！
 
 Tips=顯示提示
 Player Names=顯示玩家名稱
@@ -206,6 +208,7 @@ EXTRACTION POINT\nACTIVATED=提取點已啟動
 EXTRACTION POINT\nCOMPLETED=提取點已完成
 STARTING ENGINE<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>=正在啟動引擎<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>
 DESTROYING SLACKERS<color\=#66004C>.</color><color\=#66004C>.</color><color\=#66004C>.</color>=正在摧毀偷懶者 <color\=#66004C>.</color><color\=#66004C>.</color><color\=#66004C>.</color>
+HITTING THE ROAD<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>=正在前往下一關<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331A>.</color>
 WEAK=弱
 STRONG=強
 UPGRADES=升級
@@ -218,8 +221,8 @@ SPEED\n=衝刺\n
 STRENGTH\n=力量\n
 RANGE\n=範圍\n
 
-SWIFTBROOM ACADEMY=迅帚學院
-Swiftbroom Academy=迅帚學院
+SWIFTBROOM ACADEMY=魔法學院
+Swiftbroom Academy=魔法學院
 HEADMAN MANOR=禿頭宅第
 Headman Manor=禿頭宅第
 MCJANNEK STATION=MJ研究所

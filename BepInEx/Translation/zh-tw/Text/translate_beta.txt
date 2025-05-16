@@ -8,10 +8,12 @@ WARNING=警告
 CREATE NEW SERVER=新建伺服器
 Player Expressions=玩家表情
 
+Yes! :')=是
 It's over for me=是
 Haha yes!  :)=是
 Yes!=是
 Yes=是
+No...=否
 Not me...  :'(=否
 No wait!=否
 No=否
