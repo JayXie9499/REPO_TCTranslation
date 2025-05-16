@@ -47,6 +47,8 @@ Expression - Happy=開心
 
 THE AVANT-GARDE=博物館
 The Avant-Garde=博物館
+MUSEUM OF HUMAN ART=人肉藝術館
+Museum of Human Art=人肉藝術館
 
 Duck Bucket=鴨子桶
 Boltzap=電擊弩
