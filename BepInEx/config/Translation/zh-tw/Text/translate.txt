@@ -217,14 +217,14 @@ HITTING THE ROAD<color\=#CC331A>.</color><color\=#CC331A>.</color><color\=#CC331
 WEAK=弱
 STRONG=強
 UPGRADES=升級
-HEALTH\n=血量\n
-STAMINA\n=體力\n
-EXTRA JUMP\n=跳躍\n
-LAUNCH\n=翻滾\n
-MAP PLAYER COUNT\n=地圖玩家數\n
-SPEED\n=衝刺\n
-STRENGTH\n=力量\n
-RANGE\n=範圍\n
+HEALTH\n= 血量\n
+STAMINA\n= 體力\n
+EXTRA JUMP\n= 跳躍\n
+LAUNCH\n= 翻滾\n
+MAP PLAYER COUNT\n= 地圖玩家數\n
+SPEED\n= 衝刺\n
+STRENGTH\n= 力量\n
+RANGE\n= 範圍\n
 
 SWIFTBROOM ACADEMY=魔法學院
 Swiftbroom Academy=魔法學院
