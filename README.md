@@ -16,3 +16,4 @@
 - [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
 - [NikkisUpgrades](https://thunderstore.io/c/repo/p/Nikki/NikkisUpgrades/)
 - [OverchargeUpgrade](https://thunderstore.io/c/repo/p/SLR/OverchargeUpgrade/)
+- [UltimateRevive](https://thunderstore.io/c/repo/p/Godji/UltimateRevive/)
