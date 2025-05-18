@@ -24,6 +24,8 @@ Menu=選單
 Self Destruction=自我毀滅
 select color=選擇顏色
 Start a new game?=開始新遊戲
+RESET GAMEPLAY SETTINGS?=重設設定？
+RESET CONTROLS?=重設設定？
 
 YES=是
 NO=否
@@ -48,6 +50,7 @@ Continue=繼續
 Self Destruct=自我毀滅
 Main Menu=主選單
 Change color=變更顏色
+[press new button]=[按下新熱鍵]
 
 LOADING=載入中
 GAME OVER=遊戲結束
@@ -65,6 +68,8 @@ player joining...=玩家加入中...
 Exit to main menu?=退出至主選單？
 Is that really so?=真的只到這了嗎？
 Do you want to start a game?=你想要開始新的遊戲嗎？
+Reset all gameplay settings to default properties?=是否重設所有設定？
+Reset all controls to default settings?=是否重設所有設定？
 
 Use <u><b>WASD</b></u> to move.=按住 <u><b>WASD</b></u> 進行移動。
 Use <u><b>WASD</b></u> on your keyboard until the progress bar is filled!=使用 <u><b>WASD</b></u> 移動直到完成進度條！
@@ -342,3 +347,4 @@ sr:"Mode: (.+)"=模式：$1
 sr:"(.+) <color\=#FFFFFF>\[<u><b>E</b></u>\]</color>"=$1 <color\=#FFFFFF>[<u><b>E</b></u>]</color>
 r:"LEVEL (.+)"=第 $1 關
 sr:"^(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)(.+\n|)$"=$1$2$3$4$5$6$7$8$9$10$11$12$13
+r:"^(.*)\[HOST\](.*)"=$1[主辦人]$2

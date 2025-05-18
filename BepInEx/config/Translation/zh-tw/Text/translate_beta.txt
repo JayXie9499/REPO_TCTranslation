@@ -5,6 +5,7 @@ join friend=加入好友
 REGIONS=地區
 PASSWORD=密碼
 WARNING=警告
+PUblic game=公開遊戲
 CREATE NEW SERVER=新建伺服器
 Player Expressions=玩家表情
 
