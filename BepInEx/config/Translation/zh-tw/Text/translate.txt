@@ -26,6 +26,7 @@ select color=選擇顏色
 Start a new game?=開始新遊戲
 RESET GAMEPLAY SETTINGS?=重設設定？
 RESET CONTROLS?=重設設定？
+Disconnected=斷開連線
 
 YES=是
 NO=否

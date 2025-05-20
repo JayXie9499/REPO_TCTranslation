@@ -8,12 +8,16 @@ WARNING=警告
 PUblic game=公開遊戲
 CREATE NEW SERVER=新建伺服器
 Player Expressions=玩家表情
+Join server=加入伺服器
 
+Ok Dang=OK
+Yep!=是
 Yes! :')=是
 It's over for me=是
 Haha yes!  :)=是
 Yes!=是
 Yes=是
+Nope!=否
 No...=否
 Not me...  :'(=否
 No wait!=否
@@ -56,3 +60,5 @@ Boltzap=電擊弩
 Pulse Pistol=衝擊手槍
 Prodzap=電擊棒
 Trapzap=捕獸夾
+
+r:"^Are you sure you want to join\n(.+)$"=確定加入嗎：\n$1
