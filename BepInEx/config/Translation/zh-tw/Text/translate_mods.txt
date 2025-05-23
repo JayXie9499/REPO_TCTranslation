@@ -83,5 +83,5 @@ Overcharge Upgrade=過載緩衝升級
 
 
 # UltimateRevive
-sr:"^Your HP is below (.+)$"=你的血量低於 $1
-sr:"^Press [(.+)] to revive (.+) with (.+) HP$"=消耗 $3 點血復活 $2 <color=#FFFFFF>[<u><b>$1</b></u>]</color>
+r:"^Your HP is below (.+)$"=你的血量低於 $1
+r:"^Press \[(.+)\] to revive (.+) with (.+) HP$"=消耗 $3 點血復活 $2 <color=#FFFFFF>[<u><b>$1</b></u>]</color>
