@@ -17,3 +17,5 @@
 - [NikkisUpgrades](https://thunderstore.io/c/repo/p/Nikki/NikkisUpgrades/)
 - [OverchargeUpgrade](https://thunderstore.io/c/repo/p/SLR/OverchargeUpgrade/)
 - [UltimateRevive](https://thunderstore.io/c/repo/p/Godji/UltimateRevive/)
+- [Map Value Tracker](https://thunderstore.io/c/repo/p/Tansinator/Map_Value_Tracker/)
+- [LevelNumberUI](https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)
