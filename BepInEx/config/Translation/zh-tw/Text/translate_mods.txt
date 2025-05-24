@@ -85,3 +85,11 @@ Overcharge Upgrade=過載緩衝升級
 # UltimateRevive
 r:"^Your HP is below (.+)$"=你的血量低於 $1
 r:"^Press \[(.+)\] to revive (.+) with (.+) HP$"=消耗 $3 點血復活 $2 <color=#FFFFFF>[<u><b>$1</b></u>]</color>
+
+
+# Map Value Tracker
+r:"^Map: (.+)$"=總價: $1
+
+
+# LevelNumberUI
+r:"^Level (\d+)$"=第$1關
