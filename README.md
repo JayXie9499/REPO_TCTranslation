@@ -1,5 +1,7 @@
 > 自用中文翻譯
 
+# 首次啟動後，需要重啟遊戲生效
+
 ## 支援模組
 
 - [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
