@@ -17,7 +17,7 @@
 - [Hospital Level](https://thunderstore.io/c/repo/p/Rangerbb275/Hospital_Level/)
 - [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
 - [NikkisUpgrades](https://thunderstore.io/c/repo/p/Nikki/NikkisUpgrades/)
-- [OverchargeUpgrade](https://thunderstore.io/c/repo/p/SLR/OverchargeUpgrade/)
+- [SLRUpgradePack](https://thunderstore.io/c/repo/p/SLR/SLRUpgradePack/)
 - [UltimateRevive](https://thunderstore.io/c/repo/p/Godji/UltimateRevive/)
 - [Map Value Tracker](https://thunderstore.io/c/repo/p/Tansinator/Map_Value_Tracker/)
 - [LevelNumberUI](https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/)
