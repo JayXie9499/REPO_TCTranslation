@@ -67,9 +67,9 @@ Deeproot Garden=根源庭園
 
 
 # NikkisUpgrades
-STAMINA REGEN\n=體力恢復\n
-INVESTOR\n=複利\n
-UNSTABLE CORE\n=核平\n
+STAMINA REGEN\n= 體力恢復\n
+INVESTOR\n= 複利\n
+UNSTABLE CORE\n= 核平\n
 
 Stamina Regen Upgrade=體力恢復升級
 Investor Upgrade=複利升級
