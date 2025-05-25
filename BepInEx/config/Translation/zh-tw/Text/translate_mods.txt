@@ -76,12 +76,6 @@ Investor Upgrade=複利升級
 Unstable Core Upgrade=核平升級
 
 
-# OverchargeUpgrade
-OVERCHARGE UPGRADE\n=過載緩衝
-
-Overcharge Upgrade=過載緩衝升級
-
-
 # UltimateRevive
 r:"^Your HP is below (.+)$"=你的血量低於 $1
 r:"^Press \[(.+)\] to revive (.+) with (.+) HP$"=消耗 $3 點血復活 $2 <color=#FFFFFF>[<u><b>$1</b></u>]</color>
@@ -93,3 +87,17 @@ r:"^Map: (.+)$"=總價: $1
 
 # LevelNumberUI
 r:"^Level (\d+)$"=第$1關
+
+
+# SLRUpgradePack
+OVERCHARGE\n= 過載緩衝\n
+ARMOR\n= 裝甲\n
+OBJECT VALUE\n= 物品價值\n
+OBJECT DURABILITY\n= 物品耐久\n
+VALUABLE DENSITY\n= 物品數量\n
+
+Overcharge Upgrade=過載緩衝升級
+Armor Upgrade=裝甲升級
+Object Value Upgrade=物品價值升級
+Object Durability Upgrade=物品耐久升級
+Valuable Density Upgrade=物品數量升級
