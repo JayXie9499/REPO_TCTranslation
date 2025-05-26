@@ -78,7 +78,7 @@ Unstable Core Upgrade=核平升級
 
 # UltimateRevive
 r:"^Your HP is below (.+)$"=你的血量低於 $1
-r:"^Press \[(.+)\] to revive (.+) with (.+) HP$"=消耗 $3 點血復活 $2 <color=#FFFFFF>[<u><b>$1</b></u>]</color>
+r:"^Press \[(.+)\] to revive (.+) with (\d+) HP$"=消耗 $3 點血復活 $2 [<u><b>$1</b></u>]
 
 
 # Map Value Tracker
