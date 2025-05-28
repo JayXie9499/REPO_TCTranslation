@@ -67,9 +67,9 @@ Deeproot Garden=根源庭園
 
 
 # NikkisUpgrades
-STAMINA REGEN\n= 體力恢復\n
-INVESTOR\n= 複利\n
-UNSTABLE CORE\n= 核平\n
+STAMINA REGEN\n=體力恢復\n
+INVESTOR\n=複利\n
+UNSTABLE CORE\n=核平\n
 
 Stamina Regen Upgrade=體力恢復升級
 Investor Upgrade=複利升級
@@ -90,11 +90,11 @@ r:"^Level (\d+)$"=第$1關
 
 
 # SLRUpgradePack
-OVERCHARGE\n= 過載緩衝\n
-ARMOR\n= 裝甲\n
-OBJECT VALUE\n= 物品價值\n
-OBJECT DURABILITY\n= 物品耐久\n
-VALUABLE DENSITY\n= 物品數量\n
+OVERCHARGE\n=過載緩衝\n
+ARMOR\n=裝甲\n
+OBJECT VALUE\n=物品價值\n
+OBJECT DURABILITY\n=物品耐久\n
+VALUABLE DENSITY\n=物品數量\n
 
 Overcharge Upgrade=過載緩衝升級
 Armor Upgrade=裝甲升級
