@@ -50,15 +50,24 @@ Expression - Eyes Closed=閉眼
 Expression - Crazy=瞳孔縮小
 Expression - Happy=開心
 
+CROUCH REST\n=潛行恢復\n
+TUMBLE WINGS\n=翅膀\n
+
 THE AVANT-GARDE=博物館
 The Avant-Garde=博物館
 MUSEUM OF HUMAN ART=人肉藝術館
 Museum of Human Art=人肉藝術館
 
+Crouch Rest Upgrade=潛行恢復升級
+Tumble Wings Upgrade=翅膀升級
 Duck Bucket=鴨子桶
 Boltzap=電擊弩
 Pulse Pistol=衝擊手槍
 Prodzap=電擊棒
 Trapzap=捕獸夾
+C.A.R.T. Cannon=移動式砲台
+C.A.R.T. Laser=移動式雷射砲
+Photon Blaster=雷射槍
+Phase Bridge=空間相位橋
 
 r:"^Are you sure you want to join\n(.+)$"=確定加入嗎：\n$1
