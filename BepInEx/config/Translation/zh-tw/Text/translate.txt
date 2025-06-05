@@ -309,41 +309,11 @@ in=在
 the=黑暗
 dark.=中
 
-I need to get to the truck in...=我需要在倒數結束前回到車上...
-I=我
-need=需要在
-get=倒數
-to=結束前
-the=回到
-truck=車
-in...=上...
-
-The squad dissed lil me behind=隊員們丟下我離開了
-The=隊員
-squad=們
-dissed=丟下
-lil=我
-me=離
-behind=開了
-
 SELF DESTRUCT SEQUENCE CANCELLED!=自我毀滅程序取消！
 SELF=自我
 DESTRUCT=毀滅
 SEQUENCE=程序
 CANCELLED!=取消！
-
-Those i trusted deserted lil old me...=那些我信任的人卻拋棄了我...
-Those=那些
-i=我
-trusted=信任
-deserted=的人
-lil=卻
-old=拋棄
-me.=了我...
-
-I'm sorry=我很抱歉
-I'm=我很
-sorry=抱歉
 
 sr:"^Mode: (.+)$"=模式：$1
 sr:"^(.+) <color\=#FFFFFF>\[<u><b>E</b></u>\]</color>$"=$1 <color\=#FFFFFF>[<u><b>E</b></u>]</color>
