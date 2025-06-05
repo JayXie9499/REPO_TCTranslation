@@ -103,3 +103,17 @@ Armor Upgrade=裝甲升級
 Object Value Upgrade=物品價值升級
 Object Durability Upgrade=物品耐久升級
 Valuable Density Upgrade=物品數量升級
+
+
+# WILDCARD REPO
+CHAOS EMERALDS\n=混沌寶石\n
+DRAGON BALLS\n=龍珠\n
+
+Halo=光環
+Smith Note=死亡筆記本
+Clover Necklace=蜜蜂項鍊
+Fyrus Star=星流板
+Worm Jar=蟲罐
+
+SMITH\nNOTE=死亡\n筆記本
+r:"^Grab and press (.+) to toggle, then use (.+) and enter your target!$"=按下 <b>$1</b> 啟動，並使用 <b>$2</b> 輸入目標！
