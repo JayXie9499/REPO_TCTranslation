@@ -9,6 +9,11 @@ PUblic game=公開遊戲
 CREATE NEW SERVER=新建伺服器
 Player Expressions=玩家表情
 Join server=加入伺服器
+active moons=已知月相
+Crescent Moon=眉月
+Half Moon=半月
+Full Moon=滿月
+Super Moon=終極月亮
 
 Ok Dang=OK
 Yep!=是
@@ -39,10 +44,22 @@ RANDOM MATCHMAKING=隨機匹配
 SERVER LIST=伺服器列表
 SEARCH=搜尋
 CREATE NEW=新建
+Active moons=已知月相
 
 The friend with the best computer\nshould host.\n\nAre you this friend?=應該由擁有最佳電腦設備的人主辦。\n\n你是這名朋友嗎？
 While playing with random players\nyou may come across hackers or really mean people...=在公開遊戲中，你可能會遇到孤兒...
+The truck healer now restores 35 health.=當返回卡車時將恢復玩家35點血。
+Monsters are now harder to knock down with valuables.=怪物將更難被物品擊倒。
+Monsters now overcharge your grabber.=抓怪物將會導致過載。
+Monsters take heavy damage from pits, but can survive.=坑洞可以對怪物造成大量傷害，但部分怪物將可以生還。
+The truck healer now restores 25 health.=當返回卡車時將恢復玩家25點血。
+Monsters now overcharge your grabber by a total increase of 25%=抓怪過載速度提升25%。
+Monsters now take less damage from pits.=坑對對怪物造成的傷害減少。
+Enemy Orbs now explode when destroyed.=怪物掉落的寶珠損壞時將會爆炸。
+Monsters now overcharge your grabber by a total increase of 50%=抓怪過載速度提升50%。
+Monsters now take even less damage from pits.=坑對對怪物造成的傷害減少更多。
 
+toggle mute=靜音麥克風
 Expression - Angry=生氣
 Expression - Sad=傷心
 Expression - Suspicious=懷疑
@@ -71,3 +88,4 @@ Photon Blaster=雷射槍
 Phase Bridge=空間相位橋
 
 r:"^Are you sure you want to join\n(.+)$"=確定加入嗎：\n$1
+r:"(.+)to skip"=$1跳過說明
